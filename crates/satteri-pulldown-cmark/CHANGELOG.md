@@ -1,5 +1,11 @@
 # satteri-pulldown-cmark
 
+## 0.4.2 — 2026-05-26
+
+### Patch changes
+
+- Updated dependencies: satteri-ast (Cargo)@0.2.8
+
 ## 0.4.1 — 2026-05-18
 
 ### Patch changes

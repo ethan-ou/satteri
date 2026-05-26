@@ -1,5 +1,11 @@
 # satteri-ast
 
+## 0.2.8 — 2026-05-26
+
+### Patch changes
+
+- [d6badad](https://github.com/bruits/satteri/commit/d6badad93105125904caeded0907f0c094b58fbd) Fixes `position` property always returning `undefined` on hast nodes. — Thanks @Princesseuh!
+
 ## 0.2.7 — 2026-05-18
 
 ### Patch changes

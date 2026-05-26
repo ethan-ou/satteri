@@ -1,5 +1,11 @@
 # satteri-plugin-api
 
+## 0.1.14 — 2026-05-26
+
+### Patch changes
+
+- Updated dependencies: satteri-ast (Cargo)@0.2.8
+
 ## 0.1.13 — 2026-05-18
 
 ### Patch changes
